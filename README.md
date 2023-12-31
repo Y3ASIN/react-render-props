@@ -1,2 +1,2 @@
 # React render props & use of higher order component(HOC)
-_PRACTICE CODE_
+PRACTICE CODE
